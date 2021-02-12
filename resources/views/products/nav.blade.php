@@ -11,7 +11,7 @@
     <nav class="my-2 my-md-0 me-md-3">
         <a class="p-2 text-dark" href="/">Home</a>
         <a class="p-2 text-dark" href="/Features">Features</a>
-        <a class="p-2 text-dark" href="/Enterprise">Enterprise</a>
+        <a class="p-2 text-dark" href="/Enterprise">Entre</a>
         <a class="p-2 text-dark" href="/Support">Support</a>
         <a class="p-2 text-dark" href="/Pricing">Pricing</a>
     </nav>
